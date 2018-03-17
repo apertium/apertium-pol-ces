@@ -107,3 +107,8 @@ tagger-task/example-tagged.txt -text
 tagger-task/example-untagged.txt -text
 tagger-task/tags -text
 /wiki-tests.sh -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
