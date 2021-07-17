@@ -1,0 +1,10 @@
+{
+    "ces-pol-pending": {
+        "input": "ces-pol-pending-input.txt",
+        "mode": "ces-pol"
+    },
+    "pol-ces-pending": {
+        "input": "pol-ces-pending-input.txt",
+        "mode": "pol-ces"
+    }
+}

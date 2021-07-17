@@ -1,0 +1,4 @@
+[fJChBI4nFBNM#0] ^default<default>{^Prpers<prn><p3><f><sg><gen>$}$ ^Nom<SN><ma><sg><nom>{^pes<n><2><3><4>$}$
+[/fJChBI4nFBNM]
+[v0tzBldEuc-g#0] ^default<default>{^Prpers<prn><p3><f><sg><gen>$}$ ^Nom<SN><nt><pl><nom>{^dítě<n><2><3><4>$}$
+[/v0tzBldEuc-g]

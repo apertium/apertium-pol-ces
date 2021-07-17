@@ -1,0 +1,304 @@
+[-K0l-L9e4b1M#0] ^Dziewczyna<n><f><pl><nom>$ ^być<vbser><fut><p3><pl>$ ^tańczyć<vblex><imperf><inf>$ ^śpiewać<vblex><imperf><pprs><adv>$^.<sent>$
+[/-K0l-L9e4b1M]
+[-ZwU2_zNfHpA#0] ^Chcieć<vblex><imperf><pres><p1><sg>$ ^mówić<vblex><imperf><inf>$ ^z<pr>$ ^Anna<np><ant><f><sg><ins>$ ^albo<cnjcoo>$ ^z<pr>$ ^Petr<np><ant><mp><sg><ins>$^.<sent>$
+[/-ZwU2_zNfHpA]
+[-fDFK5a2xaNT#0] ^Czyj<det><itg><nt><sg><acc>$ ^być<vbser><pres><p3><sg>$ ^to<det><dem><mi><sg><acc>$ ^słownik<n><mi><sg><acc>$^?<sent>$
+[/-fDFK5a2xaNT]
+[0_xeoho66CVT#0] ^Nowy<adj><sint><mi><sg><acc>$ ^samochód<n><mi><sg><acc>$
+[/0_xeoho66CVT]
+[0f7nqp9WC4wW#0] ^*Usednuvši$ ^U<pr>$ ^okno<n><nt><pl><nom>$^,<cm>$ ^*začala$ ^śpiewać<vblex><imperf><inf>$^.<sent>$
+[/0f7nqp9WC4wW]
+[1OSmrxQ8NQrX#0] ^Anna<np><ant><f><sg><nom>$ ^być<vbser><pres><p3><sg>$ ^stary<adj><sint><comp><f><sg><voc>$ ^niż<cnjcoo>$ ^Petr<np><ant><mp><sg><nom>$^.<sent>$
+[/1OSmrxQ8NQrX]
+[1Sv_U2rDwZzm#0] ^To<det><dem><mi><sg><nom>$ ^zakres<n><mi><sg><nom>$
+[/1Sv_U2rDwZzm]
+[2CwnOLCBK3oO#0] ^nie<adv>$ ^mieć<vbhaver><imperf><pres><p3><sg>$ ^chleb<n><mi><sg><gen>$ ^i<cnjcoo>$ ^nie<adv>$ ^mieć<vbhaver><imperf><pres><p3><sg>$ ^ser<n><mi><sg><gen>$^.<sent>$
+[/2CwnOLCBK3oO]
+[2JtCOoVD4Il5#0] ^Anna<np><ant><f><sg><nom>$ ^przyjść<vblex><perf><past><p3><f><sg>$ ^wcześnie<adv><sint>$^,<cm>$ ^niż<cnjcoo>$ ^czekać<vblex><imperf><past><p1><m><pl>$^.<sent>$
+[/2JtCOoVD4Il5]
+[2Ke-wPd6UJap#0] ^Anna<np><ant><f><sg><nom>$ ^już<adv>$ ^napisać<vblex><perf><past><p3><f><sg>$ ^to<det><dem><f><sg><acc>$ ^dysertacja<n><f><sg><acc>$^.<sent>$
+[/2Ke-wPd6UJap]
+[366-gCsH8CWD#0] ^Do<pr>$ ^Praga<np><top><f><pl><gen>$ ^*nepojedu$ ^ani<cnjcoo>$ ^w<pr>$ ^sobota<n><f><sg><acc>$ ^ani<cnjcoo>$ ^w<pr>$ ^piątek<n><mi><sg><acc>$^.<sent>$
+[/366-gCsH8CWD]
+[3ZbkNeOIusEN#0] ^Anna<np><ant><f><sg><nom>$ ^to<det><dem><f><sg><acc>$ ^dysertacja<n><f><sg><acc>$ ^już<adv>$ ^napisać<vblex><perf><past><p3><nm><pl>$^.<sent>$
+[/3ZbkNeOIusEN]
+[3fVXYmc5l75O#0] ^Jaki<prn><itg><mi><sg><nom>$ ^być<vbser><pres><p3><sg>$ ^to<det><dem><mi><sg><acc>$ ^stół<n><mi><sg><acc>$^?<sent>$
+[/3fVXYmc5l75O]
+[4BpITfZLrLMQ#0] ^Napisać<vblex><perf><past><p3><nm><pl>$ ^już<adv>$ ^Anna<np><ant><f><sg><nom>$ ^to<det><dem><f><sg><acc>$ ^dysertacja<n><f><sg><acc>$^?<sent>$
+[/4BpITfZLrLMQ]
+[4S2RKxiDV6tT#0] ^Powinien<vaux><p2><nm><pl>$ ^być<vbser><past><p3><nm><pl>$ ^zostać<vblex><perf><inf>$^.<sent>$
+[/4S2RKxiDV6tT]
+[4TXAWapTysmP#0] ^Wielkość<n><f><sg><nom>$ ^deformacja<n><f><sg><gen>$ ^być<vbser><pres><p3><sg>$ ^przenosić<vblex><imperf><pp><impers><nt>$ ^na<pr>$ ^wskazówka<n><f><sg><acc>$ ^pokazywać<vblex><imperf><pprs><f><sg><acc>$ ^wielkość<n><f><sg><acc>$ ^nacisk<n><mi><sg><gen>$ ^na<pr>$ ^skala<n><f><sg><loc>$^.<sent>$
+[/4TXAWapTysmP]
+[4rx7WQSglUuJ#0] ^Nie<adv>$ ^być<vbser><pres><p3><sg>$ ^to<det><dem><nt><sg><acc>$ ^dobry<adj><sint><mi><pl><voc>$^.<sent>$
+[/4rx7WQSglUuJ]
+[555R3JX2QlaU#0] ^1<num><sg>$ ^stopień<n><mi><sg><nom>$^.<sent>$
+[/555R3JX2QlaU]
+[5Beg_SFElTd1#0] ^Prpers<prn><p2><mf><pl><nom>$ ^mieć<vbhaver><imperf><pres><p2><pl>$ ^samochód<n><mi><sg><acc>$^.<sent>$
+[/5Beg_SFElTd1]
+[5HyKISSHc3hL#0] ^Mieć<vbhaver><imperf><pres><p3><pl>$ ^piwo<n><nt><sg><acc>$ ^i<cnjcoo>$ ^wino<n><nt><sg><acc>$^.<sent>$
+[/5HyKISSHc3hL]
+[5TK6fTNcUGri#0] ^Obok<pr>$ ^biblioteka<n><f><pl><voc>$
+[/5TK6fTNcUGri]
+[5hPDLFExqB4e#0] ^Nie<adv>$ ^dawać<vblex><imperf><imp><p2><sg>$ ^prpers<prn><p1><mf><sg><dat>$ ^to<det><dem><nt><sg><gen>$^.<sent>$
+[/5hPDLFExqB4e]
+[74jX11OvGxp6#0] ^Powinien<vaux><p2><mp><pl>$ ^być<vbser><past><p3><mp><pl>$ ^zostać<vblex><perf><inf>$^.<sent>$
+[/74jX11OvGxp6]
+[8JfubXpfuqod#0] ^Który<prn><itg><ma><sg><nom>$ ^piesek<n><ma><sg><nom>$ ^się<prn><ref><acc>$ ^prpers<prn><p2><mf><sg><dat>$ ^podobać<vblex><imperf><past><p3><m><sg>$ ^bardzo<adv><sint><sup>$^?<sent>$
+[/8JfubXpfuqod]
+[8keEx8pF1RQb#0] ^Nie<adv>$ ^mieć<vbhaver><imperf><pres><p1><sg>$ ^ani<cnjcoo>$ ^wino<n><nt><sg><acc>$ ^ani<cnjcoo>$ ^piwo<n><nt><sg><acc>$^.<sent>$
+[/8keEx8pF1RQb]
+[8r46wIWZxhVB#0] ^To<det><dem><nt><sg><acc>$ ^być<vbser><pres><p3><sg>$ ^jej<det><pos><sp>$ ^pies<n><ma><sg><nom>$^.<sent>$
+[/8r46wIWZxhVB]
+[93-kSoB3Q6mx#0] ^Ojciec<n><mp><sg><nom>$ ^czytać<vblex><imperf><past><p3><mp><sg>$ ^książka<n><f><sg><acc>$^.<sent>$
+[/93-kSoB3Q6mx]
+[9Pu3oQoSa4ED#0] ^To<det><dem><nt><sg><acc>$ ^być<vbser><pres><p3><sg>$ ^mój<det><pos><mi><sg><nom>$ ^pies<n><ma><sg><nom>$^.<sent>$
+[/9Pu3oQoSa4ED]
+[9R7nHKSOdADR#0] ^Mężczyzna<n><mp><sg><nom>$ ^z<pr>$ ^czerwony<adj><nt><pl><ins>$ ^*vousy$
+[/9R7nHKSOdADR]
+[9pM5cH1Fu-nH#0] ^Powinien<vaux><p1><m><sg>$ ^być<vbser><past><p3><m><sg>$ ^zostać<vblex><perf><inf>$^.<sent>$
+[/9pM5cH1Fu-nH]
+[9uS4dlfXemrx#0] ^Co<prn><itg><nt><sg><acc>$^?<sent>$
+[/9uS4dlfXemrx]
+[CJ02Ej0ic_J4#0] ^Przynieść<vblex><perf><past><p1><m><sg>$ ^to<det><dem><nt><sg><acc>$ ^coś<prn><ind><nt><sg><acc>$ ^mały<adj><sint><nt><sg><gen>$^.<sent>$
+[/CJ02Ej0ic_J4]
+[CPwIP550QbN5#0] ^Powinien<vaux><p1><f><sg>$ ^być<vbser><past><p3><f><sg>$ ^zostać<vblex><perf><inf>$^.<sent>$
+[/CPwIP550QbN5]
+[CqC1FV9CAG6i#0] ^Jak<rel><adv>$ ^być<vbser><pres><p3><sg>$ ^daleko<adv><sint>$ ^stąd<adv>$ ^do<pr>$ ^centrum<n><nt><sg><gen>$^?<sent>$
+[/CqC1FV9CAG6i]
+[Dq3o02z2JWrh#0] ^Przeciw<pr>$ ^wojna<n><f><sg><dat>$
+[/Dq3o02z2JWrh]
+[E8UlaP_6iWkG#0] ^Włochy<np><top><mi><pl><nom>$ ^mieć<vbhaver><imperf><pres><p3><sg>$ ^mały<adj><sint><mi><pl><voc>$ ^zasób<n><mi><pl><voc>$ ^paliwo<n><nt><pl><gen>$^.<sent>$
+[/E8UlaP_6iWkG]
+[ED7WjPCytnQN#0] ^Do<pr>$ ^dom<n><mi><sg><gen>$
+[/ED7WjPCytnQN]
+[F4PmaaIv3PS6#0] ^Nie<adv>$ ^dawać<vblex><imperf><imp><p2><sg>$ ^prpers<prn><p1><mf><sg><dat>$ ^nadzieja<n><f><sg><gen>$^.<sent>$
+[/F4PmaaIv3PS6]
+[FYyoxYDI42-T#0] ^Mężczyzna<n><mp><sg><nom>$ ^iść<vblex><imperf><pres><p3><sg>$ ^śpiewać<vblex><imperf><pprs><adv>$ ^się<prn><ref><dat>$^.<sent>$
+[/FYyoxYDI42-T]
+[FyLfScHeh6Oh#0] ^Dziewczyna<n><f><sg><nom>$ ^tańczyć<vblex><imperf><past><p3><f><sg>$ ^śpiewać<vblex><imperf><pprs><adv>$ ^się<prn><ref><dat>$^.<sent>$
+[/FyLfScHeh6Oh]
+[FzMaYJDxbe5I#0] ^Bardzo<adv><sint><sup>$ ^złoty<adj><mi><sg><voc>$^.<sent>$
+[/FzMaYJDxbe5I]
+[GIHltSHZJFsT#0] ^Nikt<prn><ind><mp><sg><nom>$ ^nie<adv>$ ^być<vbser><pres><p3><sg>$ ^doskonały<adj><sint><mi><sg><voc>$^.<sent>$
+[/GIHltSHZJFsT]
+[GYgTTq2qlgkg#0] ^3<num><pl>$ ^stopień<n><mi><pl><nom>$^.<sent>$
+[/GYgTTq2qlgkg]
+[GwEj_9Kuz6Xt#0] ^Widzieć<vblex><imperf><pres><p1><sg>$ ^się<prn><ref><acc>$ ^w<pr>$ ^lustro<n><nt><sg><loc>$^.<sent>$
+[/GwEj_9Kuz6Xt]
+[HkyJL8lLwlSt#0] ^Nowy<adj><sint><sup><mi><sg><acc>$ ^samochód<n><mi><sg><acc>$
+[/HkyJL8lLwlSt]
+[Hnl8xbqfeNgx#0] ^To<det><dem><f><sg><acc>$ ^dysertacja<n><f><sg><acc>$ ^Anna<np><ant><f><sg><nom>$ ^już<adv>$ ^napisać<vblex><perf><past><p3><f><sg>$^.<sent>$
+[/Hnl8xbqfeNgx]
+[Hp5J4YBa-RK_#0] ^Duński<adj><mi><sg><nom>$ ^język<n><mi><sg><nom>$
+[/Hp5J4YBa-RK_]
+[HyGM_gr3D3CM#0] ^To<det><dem><f><sg><nom>$ ^lista<n><f><sg><nom>$ ^być<vbser><pres><p3><sg>$ ^ważny<adj><sint><mi><sg><voc>$^.<sent>$
+[/HyGM_gr3D3CM]
+[INp1W4OzQz3G#0] ^Śruba<n><f><sg><nom>$ ^być<vbser><pres><p3><sg>$ ^także<adv>$ ^podstawa<n><f><sg><ins>$ ^wiele<prn><ind><mp><pl><loc>$ ^następny<adj><mi><pl><gen>$ ^wynalazek<n><mi><pl><gen>$^.<sent>$
+[/INp1W4OzQz3G]
+[IjD6x8VzU9qE#0] ^Mało<adv><sint><comp>$ ^złoty<adj><mi><sg><voc>$^.<sent>$
+[/IjD6x8VzU9qE]
+[JaYWc7ZC2vM1#0] ^Jodła<n><f><sg><acc>$ ^i<cnjcoo>$ ^pić<vblex><imperf><past><p3><m><pl>$^.<sent>$
+[/JaYWc7ZC2vM1]
+[KPt5j0JITT6P#0] ^Kto<prn><itg><mp><sg><nom>$ ^chcieć<vblex><imperf><pres><p3><sg>$ ^mleko<n><nt><sg><acc>$^?<sent>$
+[/KPt5j0JITT6P]
+[KYPy2bFl8yS_#0] ^To<det><dem><f><sg><acc>$ ^ważny<adj><sint><f><sg><acc>$ ^praca<n><f><sg><acc>$
+[/KYPy2bFl8yS_]
+[Kf8Yj1xcOjog#0] ^To<det><dem><nt><sg><acc>$ ^być<vbser><pres><p3><sg>$ ^jej<det><pos><sp>$ ^pies<n><ma><sg><nom>$^.<sent>$
+[/Kf8Yj1xcOjog]
+[KnF86Ocrt2si#0] ^Przykład<n><mi><sg><ins>$ ^móc<vaux><imperf><pres><p3><sg>$ ^być<vbser><inf>$ ^kondensacja<n><f><sg><nom>$ ^woda<n><f><sg><gen>$^.<sent>$
+[/KnF86Ocrt2si]
+[LZUg1D9XsAh9#0] ^Dwa<num><mi><pl><nom>$ ^dzień<n><mi><pl><voc>$ ^wcześnie<adv><sint>$
+[/LZUg1D9XsAh9]
+[LoF_zmhkxKmy#0] ^5<num><qnt>$ ^stopień<n><mi><sg><loc>$^.<sent>$
+[/LoF_zmhkxKmy]
+[LxvtaSDd1kMV#0] ^Normalny<adj><sint><sup><mp><sg><nom>$ ^człowiek<n><mp><sg><nom>$
+[/LxvtaSDd1kMV]
+[N-0TVaCTdmBx#0] ^Petr<np><ant><mp><sg><nom>$ ^nie<adv>$ ^mieć<vbhaver><imperf><pres><p3><sg>$ ^nowy<adj><sint><mi><sg><acc>$ ^samochód<n><mi><sg><acc>$^?<sent>$
+[/N-0TVaCTdmBx]
+[O0HDw8XNFeQS#0] ^Pokazać<vblex><perf><imp><p2><sg>$ ^to<det><dem><nt><sg><acc>$ ^prpers<prn><emph><p3><nt><sg><dat>$^.<sent>$
+[/O0HDw8XNFeQS]
+[O9qJWdwCyxXR#0] ^Nowy<adj><sint><sup><mi><pl><ins>$ ^samochód<n><mi><pl><ins>$
+[/O9qJWdwCyxXR]
+[PoAxhgMO5r_K#0] ^Książka<n><f><sg><nom>$ ^być<vbser><past><p3><f><sg>$ ^przełożyć<vblex><perf><pp><impers><nt>$ ^z<pr>$ ^język francuski<n><mi><pl><voc>$^.<sent>$
+[/PoAxhgMO5r_K]
+[QUzIUCnftfhA#0] ^Między<pr>$ ^15<num><qnt>$ ^i<cnjcoo>$ ^35<num><qnt>$ ^stopień<n><mi><sg><ins>$^.<sent>$
+[/QUzIUCnftfhA]
+[Qix6pkaCPJvU#0] ^Bardzo<adv><sint><comp>$ ^Szalony<adj><mp><sg><nom>$ ^człowiek<n><mp><sg><nom>$
+[/Qix6pkaCPJvU]
+[QvcFckeMCQry#0] ^Prpers<prn><p3><mp><pl><nom>$ ^mieć<vbhaver><imperf><pres><p3><pl>$ ^samochód<n><mi><sg><acc>$^.<sent>$
+[/QvcFckeMCQry]
+[QxsuEttm-267#0] ^To<det><dem><nt><sg><acc>$ ^być<vbser><pres><p3><sg>$ ^prpers<prn><emph><p3><nt><sg><gen>$ ^pies<n><ma><sg><nom>$^.<sent>$
+[/QxsuEttm-267]
+[Ru4ek1z-L4Rf#0] ^Prpers<prn><p3><m><sg><nom>$ ^mój<det><pos><f><sg><nom>$ ^samochód<n><mi><sg><nom>$^.<sent>$
+[/Ru4ek1z-L4Rf]
+[RvMG7vlvLKFD#0] ^Dokąd<rel><adv>$ ^być<vbser><pres><p3><sg>$ ^czas<n><mi><sg><nom>$^.<sent>$
+[/RvMG7vlvLKFD]
+[STtXQ88BDxrz#0] ^Słońce<n><nt><sg><nom>$ ^być<vbser><pres><p3><sg>$ ^widzieć<vblex><imperf><pp><impers><nt>$ ^z<pr>$ ^Ziemia<n><f><pl><voc>$ ^jako<pr>$ ^czerwony<adj><mi><pl><voc>$ ^jedynie<adv>$ ^przy<pr>$ ^swój<det><pos><mi><sg><loc>$ ^wschód<n><mi><sg><loc>$ ^i<cnjcoo>$ ^zachód<n><mi><sg><dat>$^.<sent>$
+[/STtXQ88BDxrz]
+[SV_3MljX3m-A#0] ^Prpers<prn><p1><mf><sg><nom>$ ^mieć<vbhaver><imperf><pres><p1><sg>$ ^samochód<n><mi><sg><acc>$^.<sent>$
+[/SV_3MljX3m-A]
+[SgeIfCs2VO-9#0] ^Powinien<vaux><p1><mp><pl>$ ^być<vbser><past><p3><mp><pl>$ ^zostać<vblex><perf><inf>$^.<sent>$
+[/SgeIfCs2VO-9]
+[T1dK-L5mbFML#0] ^Nie<adv>$ ^być<vbser><pres><p3><sg>$ ^to<det><dem><nt><sg><acc>$ ^reforma<n><f><sg><nom>$^.<sent>$
+[/T1dK-L5mbFML]
+[U_XCHiO1I2n9#0] ^Wiedzieć<vblex><imperf><pres><p2><sg>$ ^gdzie<rel><adv>$ ^być<vbser><pres><p1><sg>$^?<sent>$
+[/U_XCHiO1I2n9]
+[UnUDMA_ZElHQ#0] ^Nowy<adj><sint><comp><mi><sg><nom>$ ^samochód<n><mi><sg><nom>$
+[/UnUDMA_ZElHQ]
+[UpMw6HfamXss#0] ^2<num><pl>$ ^stopień<n><mi><pl><nom>$^.<sent>$
+[/UpMw6HfamXss]
+[VDAck3TAnaJk#0] ^Nikt<prn><ind><mp><sg><nom>$ ^nie<adv>$ ^być<vbser><pres><p3><sg>$ ^tak<adv>$ ^stary<adj><sint><mi><sg><voc>$^,<cm>$ ^aby<cnjsub>$ ^nie<adv>$ ^móc<vaux><imperf><past><p3><m><sg>$ ^zmienić<vblex><perf><inf>$ ^swój<det><pos><mi><sg><gen>$ ^życie<n><nt><sg><gen>$^.<sent>$
+[/VDAck3TAnaJk]
+[VLfIz5D4xR8B#0] ^Prpers<prn><p1><mf><pl><nom>$ ^mieć<vbhaver><imperf><pres><p1><pl>$ ^samochód<n><mi><sg><acc>$^.<sent>$
+[/VLfIz5D4xR8B]
+[Wq8s7-mmOLBu#0] ^Wyjść<vblex><perf><past><p3><m><sg>$ ^przed<pr>$ ^dom<n><mi><sg><nom>$
+[/Wq8s7-mmOLBu]
+[XAZG1STt_8Q5#0] ^Jutro<adv>$ ^mieć<vbhaver><imperf><pres><p3><sg>$ ^być<vbser><inf>$ ^chłodno<adv><sint>$^.<sent>$
+[/XAZG1STt_8Q5]
+[XAzX6CbwvDHV#0] ^Gdzie<rel><adv>$ ^Być<vbser><pres><p2><pl>$^?<sent>$
+[/XAzX6CbwvDHV]
+[XkLXdSm5TsQT#0] ^Pracowity<adj><sint><comp><mp><sg><nom>$ ^człowiek<n><mp><sg><nom>$
+[/XkLXdSm5TsQT]
+[Xt5I5PDPM14x#0] ^Bardzo<adv><sint><comp>$ ^złoty<adj><mi><sg><voc>$^.<sent>$
+[/Xt5I5PDPM14x]
+[YYxFhylz4IuB#0] ^Powitać<vblex><perf><past><p3><m><sg>$ ^prpers<prn><p3><nt><sg><acc>$ ^chłodno<adv><sint>$^.<sent>$
+[/YYxFhylz4IuB]
+[YzUv63FXHpLL#0] ^Podporucznik<n><mp><sg><nom>$ ^to<det><dem><nt><sg><dat>$ ^nie<adv>$ ^poświęcać<vblex><imperf><pres><p3><sg>$ ^uwaga<n><f><sg><gen>$^.<sent>$
+[/YzUv63FXHpLL]
+[ZRiHPNgYP8w-#0] ^Nie<adv>$ ^dawać<vblex><imperf><imp><p2><sg>$ ^prpers<prn><p1><mf><sg><dat>$ ^fałszywy<adj><f><sg><gen>$ ^nadzieja<n><f><sg><gen>$^.<sent>$
+[/ZRiHPNgYP8w-]
+[ZWf2Ylg4Vb4F#0] ^Mieć<vbhaver><imperf><pres><p3><pl>$ ^i<cnjcoo>$ ^piwo<n><nt><sg><acc>$ ^i<cnjcoo>$ ^wino<n><nt><sg><acc>$^.<sent>$
+[/ZWf2Ylg4Vb4F]
+[Zwrh2CsclhhK#0] ^*Usednuv$ ^Do<pr>$ ^stół<n><mi><sg><gen>$^,<cm>$ ^*začal$ ^Petr<np><ant><mp><sg><nom>$ ^czytać<vblex><imperf><inf>$ ^list<n><mi><sg><acc>$^.<sent>$
+[/Zwrh2CsclhhK]
+[_HA3kgX_xfT7#0] ^Pracowity<adj><sint><sup><mp><sg><nom>$ ^człowiek<n><mp><sg><nom>$
+[/_HA3kgX_xfT7]
+[_WKuE4IzCCGP#0] ^Powinien<vaux><p2><f><sg>$ ^być<vbser><past><p3><f><sg>$ ^zostać<vblex><perf><inf>$^.<sent>$
+[/_WKuE4IzCCGP]
+[aAqljcVGr_E8#0] ^Trzy<num><nm><pl><nom>$ ^razy<pr>$ ^trzy<num><nm><pl><acc>$
+[/aAqljcVGr_E8]
+[ayf3LHLZV6Wc#0] ^Być<vbser><past><p3><m><sg>$ ^to<det><dem><nt><sg><acc>$ ^to<det><dem><mi><sg><nom>$^,<cm>$ ^który<prn><itg><ma><sg><nom>$ ^prpers<prn><p3><nt><sg><acc>$ ^*zabil$^?<sent>$
+[/ayf3LHLZV6Wc]
+[b3sZTgZXqSEb#0] ^Całkowity<adj><f><sg><nom>$ ^długość<n><f><sg><nom>$ ^wybrzeże<n><nt><sg><dat>$ ^być<vbser><pres><p3><sg>$ ^około<pr>$ ^7600<num><qnt>$ ^km<n><mi><sp><indecl>$^.<sent>$
+[/b3sZTgZXqSEb]
+[bAYURRfJKiRv#0] ^Jeśli<cnjadv>$ ^chcieć<vblex><imperf><pres><p2><sg>$ ^zmienić<vblex><perf><inf>$ ^świat<n><mi><sg><acc>$^,<cm>$ ^*začni$ ^od<pr>$ ^się<prn><ref><gen>$^.<sent>$
+[/bAYURRfJKiRv]
+[be-jm7qwKLxZ#0] ^Prpers<prn><p3><mf><pl><nom>$ ^wyglądać<vblex><imperf><pres><p3><sg>$ ^smutno<adv><sint>$^.<sent>$
+[/be-jm7qwKLxZ]
+[bsw6Smj9Osz0#0] ^U<pr>$ ^kto<prn><itg><mp><sg><acc>$ ^*bydlíte$^?<sent>$
+[/bsw6Smj9Osz0]
+[c9rDmJg5HZCW#0] ^Nasz<det><pos><mp><pl><dat>$ ^stary<adj><sint><mp><pl><dat>$ ^przyjaciel<n><mp><pl><dat>$
+[/c9rDmJg5HZCW]
+[cM3KutZOomvU#0] ^Prpers<prn><p3><nt><sg><nom>$ ^mój<det><pos><f><sg><nom>$ ^samochód<n><mi><sg><nom>$^.<sent>$
+[/cM3KutZOomvU]
+[ciPjqfnoQ_rV#0] ^Iść<vblex><imperf><fut><p1><sg>$ ^*tam$^,<cm>$ ^jeśli<cnjadv>$ ^prpers<prn><emph><p3><nt><sg><acc>$ ^nie<adv>$ ^być<vbser><fut><p3><sg>$^.<sent>$
+[/ciPjqfnoQ_rV]
+[dZyojfEP_xP9#0] ^To<det><dem><nt><sg><acc>$ ^być<vbser><pres><p3><sg>$ ^nasz<det><pos><mi><sg><nom>$ ^pies<n><ma><sg><nom>$^.<sent>$
+[/dZyojfEP_xP9]
+[eRB4Fd_F1k9Z#0] ^Nowy<adj><sint><mi><pl><nom>$ ^samochód<n><mi><pl><nom>$
+[/eRB4Fd_F1k9Z]
+[eUs5oOKZy3DK#0] ^*Kout$ ^Żelazo<n><nt><sg><nom>$ ^dokąd<rel><adv>$ ^być<vbser><pres><p3><sg>$ ^gorący<adj><sint><mi><pl><voc>$^.<sent>$
+[/eUs5oOKZy3DK]
+[fVZXucbTgtas#0] ^W<pr>$ ^gospoda<n><f><sg><loc>$ ^być<vbser><past><p3><nt><sg>$ ^radośnie<adv><sint>$^.<sent>$
+[/fVZXucbTgtas]
+[fX6aoL-wnST2#0] ^Prpers<prn><p2><mf><sg><nom>$ ^mieć<vbhaver><imperf><pres><p2><sg>$ ^samochód<n><mi><sg><acc>$^.<sent>$
+[/fX6aoL-wnST2]
+[fiyZFDVm81W_#0] ^Dzięki<pr>$ ^prpers<prn><emph><p2><mf><sg><dat>$
+[/fiyZFDVm81W_]
+[g9cTsl3LFzgF#0] ^Między<pr>$ ^18<num><qnt>$ ^i<cnjcoo>$ ^20<num><qnt>$ ^stopień<n><mi><sg><loc>$^.<sent>$
+[/g9cTsl3LFzgF]
+[gDJCUDIrHiM2#0] ^Jej<det><pos><sp>$ ^dziecko<n><nt><pl><acc>$
+[/gDJCUDIrHiM2]
+[gLXPrMbbgFWG#0] ^Dom<n><mi><sg><nom>$ ^być<vbser><pres><p3><sg>$ ^piękny<adj><sint><mi><sg><voc>$^.<sent>$
+[/gLXPrMbbgFWG]
+[ghoRf4JL0uUH#0] ^Bez<pr>$ ^słowo<n><nt><pl><nom>$
+[/ghoRf4JL0uUH]
+[giX-VanXjbZX#0] ^Mieć<vbhaver><imperf><pres><p2><sg>$ ^to<det><dem><ma><sg><acc>$ ^pies<n><ma><sg><acc>$^?<sent>$
+[/giX-VanXjbZX]
+[hETwAwQMdZIU#0] ^Powinien<vaux><p1><nm><pl>$ ^być<vbser><past><p3><nm><pl>$ ^zostać<vblex><perf><inf>$^.<sent>$
+[/hETwAwQMdZIU]
+[hqqUvp6q5VgH#0] ^Gdzie<rel><adv>$ ^Prpers<prn><p2><mf><pl><acc>$ ^*bolí$^?<sent>$
+[/hqqUvp6q5VgH]
+[iEek9_dJYsqW#0] ^Bardzo<adv><sint><sup>$ ^szalony<adj><mp><sg><nom>$ ^człowiek<n><mp><sg><nom>$
+[/iEek9_dJYsqW]
+[iJfdiKFcVIWQ#0] ^To<det><dem><nt><sg><acc>$ ^być<vbser><pres><p3><sg>$ ^twój<det><pos><mi><sg><nom>$ ^pies<n><ma><sg><nom>$^.<sent>$
+[/iJfdiKFcVIWQ]
+[iWzNyRsQgQPa#0] ^Prpers<prn><p3><mf><pl><nom>$ ^mój<det><pos><f><sg><nom>$ ^samochód<n><mi><sg><nom>$^.<sent>$
+[/iWzNyRsQgQPa]
+[j4mg8aZuLPJm#0] ^Obawiać<vblex><imperf><pres><p1><sg>$ ^się<prn><ref><acc>$ ^o<pr>$ ^syn<n><mp><sg><acc>$
+[/j4mg8aZuLPJm]
+[jC9ChZQWJahJ#0] ^Prpers<prn><p3><m><sg><nom>$ ^widzieć<vblex><imperf><pres><p3><sg>$ ^swój<det><pos><nt><sg><gen>$ ^ojciec<n><mp><sg><gen>$^.<sent>$
+[/jC9ChZQWJahJ]
+[jNS32CxXgTgt#0] ^Koło<n><nt><sg><ins>$ ^ogród<n><mi><sg><gen>$
+[/jNS32CxXgTgt]
+[jUNBgvzuvYai#0] ^Około<pr>$ ^15<num><qnt>$ ^kilometr<n><mi><pl><gen>$^.<sent>$
+[/jUNBgvzuvYai]
+[jcZE9PMFASnd#0] ^To<det><dem><nt><sg><acc>$ ^być<vbser><pres><p3><sg>$ ^wasz<det><pos><mi><sg><nom>$ ^pies<n><ma><sg><nom>$^.<sent>$
+[/jcZE9PMFASnd]
+[kBapAXwqWMMu#0] ^101<num><qnt>$ ^stopień<n><mi><sg><loc>$^.<sent>$
+[/kBapAXwqWMMu]
+[keOHWlpe5Vc5#0] ^Nowy<adj><sint><comp><mi><pl><nom>$ ^samochód<n><mi><pl><nom>$
+[/keOHWlpe5Vc5]
+[kypukMzelkjZ#0] ^Napisać<vblex><perf><past><p3><nm><pl>$ ^już<adv>$ ^to<det><dem><f><sg><acc>$ ^dysertacja<n><f><sg><acc>$ ^Anna<np><ant><f><sg><nom>$^.<sent>$
+[/kypukMzelkjZ]
+[m-eYIzfIG4LU#0] ^Anna<np><ant><f><sg><nom>$ ^pływać<vblex><imperf><pres><p3><sg>$ ^prędko<adv><sint><comp>$ ^niż<cnjcoo>$ ^Petr<np><ant><mp><sg><nom>$^.<sent>$
+[/m-eYIzfIG4LU]
+[m8ayeRrxtQwl#0] ^Dziewczyna<n><f><sg><nom>$ ^z<pr>$ ^niebieski<adj><nt><pl><ins>$ ^oko<n><nt><pl><ins>$
+[/m8ayeRrxtQwl]
+[mAJn_6f-AbMW#0] ^To<det><dem><nt><sg><acc>$ ^być<vbser><pres><p3><sg>$ ^dom<n><mi><sg><nom>$^.<sent>$
+[/mAJn_6f-AbMW]
+[mSQadkdfEcKx#0] ^Ptak<n><ma><pl><nom>$ ^używać<vblex><imperf><pres><p3><pl>$ ^do<pr>$ ^nawigacja<n><f><sg><gen>$ ^podczas<pr>$ ^migracja<n><f><sg><gen>$ ^różny<adj><sint><f><pl><voc>$ ^metoda<n><f><pl><voc>$^.<sent>$
+[/mSQadkdfEcKx]
+[m_qMvaQ9ptSd#0] ^To<det><dem><mi><sg><nom>$ ^wielki<adj><mi><sg><nom>$ ^zakres<n><mi><sg><nom>$
+[/m_qMvaQ9ptSd]
+[mbAp0u35uHDw#0] ^W<pr>$ ^przypadek<n><mi><sg><loc>$ ^gdy<cnjsub>$
+[/mbAp0u35uHDw]
+[mbXXsQFsI6Tq#0] ^Być<vbser><past><p1><m><pl>$^,<cm>$ ^być<vbser><pres><p1><pl>$ ^i<cnjcoo>$ ^być<vbser><fut><p1><pl>$^.<sent>$
+[/mbXXsQFsI6Tq]
+[nZgyqjQ3DvCo#0] ^Od<pr>$ ^początek<n><mi><sg><voc>$ ^do<pr>$ ^koniec<n><mi><pl><gen>$^.<sent>$
+[/nZgyqjQ3DvCo]
+[o8R0laDoiZNN#0] ^4<num><pl>$ ^stopień<n><mi><pl><nom>$^.<sent>$
+[/o8R0laDoiZNN]
+[oVpbmxWX7NN9#0] ^To<det><dem><f><sg><acc>$ ^dysertacja<n><f><sg><acc>$ ^już<adv>$ ^napisać<vblex><perf><past><p3><nm><pl>$ ^Anna<np><ant><f><sg><nom>$^.<sent>$
+[/oVpbmxWX7NN9]
+[on_vWSPi8vzS#0] ^Kiedy<cnjsub>$ ^być<vbser><past><p1><m><sg>$ ^młody<adj><sint><mi><sg><voc>$^,<cm>$ ^wszystko<prn><ind><nt><sg><acc>$ ^być<vbser><past><p3><nt><sg>$ ^tani<adj><sint><comp><nt><pl><voc>$^.<sent>$
+[/on_vWSPi8vzS]
+[pUNVhNw5PZjC#0] ^Normalny<adj><sint><comp><mp><sg><nom>$ ^człowiek<n><mp><sg><nom>$
+[/pUNVhNw5PZjC]
+[pbEYb7nyI5DQ#0] ^Do<pr>$ ^las<n><mi><sg><gen>$
+[/pbEYb7nyI5DQ]
+[qaIkOrER1yca#0] ^Człowiek<n><mp><sg><nom>$ ^nie<adv>$ ^wiedzieć<vblex><imperf><pres><p3><sg>$^,<cm>$ ^co<rel><an><nt><sg>$ ^mój<det><pos><nt><pl><voc>$^,<cm>$ ^dokąd<rel><adv>$ ^to<det><dem><nt><sg><acc>$ ^nie<adv>$ ^stracić<vblex><perf><fut><p3><sg>$^.<sent>$
+[/qaIkOrER1yca]
+[qetpHz8LIl2X#0] ^Co<rel><an><nt><sg>$ ^być<vbser><pres><p3><sg>$ ^to<det><dem><nt><sg><acc>$^?<sent>$
+[/qetpHz8LIl2X]
+[sPOimMWDXS0k#0] ^To<det><dem><nt><sg><acc>$ ^przecież<cnjadv>$ ^już<adv>$ ^nie<adv>$ ^mieć<vbhaver><imperf><pres><p3><sg>$ ^zadanie<n><nt><sg><gen>$ ^matematyka<n><f><sg><gen>$^,<cm>$ ^lecz<cnjcoo>$ ^właściwy<adj><sint><f><sg><gen>$ ^inny<det><ind><f><pl><voc>$ ^dyscyplina<n><f><pl><voc>$^.<sent>$
+[/sPOimMWDXS0k]
+[sstHC6AjM2Jg#0] ^Wierzyć<vblex><imperf><inf>$ ^w<pr>$ ^coś<prn><ind><nt><sg><acc>$
+[/sstHC6AjM2Jg]
+[t9-rG0Oh-6ja#0] ^Powinien<vaux><p2><m><sg>$ ^być<vbser><past><p3><m><sg>$ ^zostać<vblex><perf><inf>$^.<sent>$
+[/t9-rG0Oh-6ja]
+[ujDa0UR1uZu5#0] ^Jak<rel><adv>$^?<sent>$
+[/ujDa0UR1uZu5]
+[wCs6fLScydUF#0] ^Książka<n><f><sg><acc>$ ^czytać<vblex><imperf><past><p3><m><sg>$ ^ojciec<n><mp><sg><nom>$^.<sent>$
+[/wCs6fLScydUF]
+[wEvtnpNywktO#0] ^Mieć<vbhaver><imperf><pres><p2><pl>$ ^plan<n><mi><sg><acc>$ ^miasto<n><nt><sg><gen>$^?<sent>$
+[/wEvtnpNywktO]
+[wMUKePhDIKzn#0] ^Być<vbser><pres><p2><pl>$ ^w<pr>$ ^dobry<adj><sint><comp><mi><sg><dat>$ ^stan<n><mi><sg><dat>$ ^niż<cnjcoo>$ ^prpers<prn><p1><mf><sg><nom>$^.<sent>$
+[/wMUKePhDIKzn]
+[wqJfxAwdRHwT#0] ^20<num><qnt>$ ^stopień<n><mi><sg><loc>$^.<sent>$
+[/wqJfxAwdRHwT]
+[wxmBd2g__ZMF#0] ^Mało<adv><sint><sup>$ ^złoty<adj><mi><sg><voc>$^.<sent>$
+[/wxmBd2g__ZMF]
+[xG1SZvWK_skY#0] ^Poczekać<vblex><perf><fut><p1><sg>$ ^aż<cnjsub>$ ^przyjść<vblex><perf><fut><p2><sg>$^.<sent>$
+[/xG1SZvWK_skY]
+[xmjuJ2E9e0_F#0] ^Anna<np><ant><f><sg><nom>$ ^mówić<vblex><imperf><pres><p3><sg>$ ^tak<adv>$ ^dobrze<adv><sint>$ ^niemiecki<adj><mi><sg><voc>$ ^jako<pr>$ ^Petr<np><ant><mp><sg><nom>$^.<sent>$
+[/xmjuJ2E9e0_F]
+[y895DpmO7K0e#0] ^Początek<n><mi><pl><nom>$ ^fizyka<n><f><pl><voc>$ ^można<vaux>$ ^szukać<vblex><imperf><inf>$ ^w<pr>$ ^starożytność<n><f><sg><loc>$^.<sent>$
+[/y895DpmO7K0e]
+[yg7zg4g55sX7#0] ^Pokazać<vblex><perf><imp><p2><sg>$ ^prpers<prn><p3><nt><sg><dat>$ ^to<det><dem><nt><sg><acc>$^.<sent>$
+[/yg7zg4g55sX7]
+[ysY0bbdZYLJ-#0] ^Dynamika<n><f><sg><nom>$ ^dźwięk<n><mi><sg><dat>$ ^być<vbser><pres><p3><sg>$ ^różnica<n><f><sg><nom>$ ^między<pr>$ ^intensywność<n><f><sg><ins>$ ^cichy<adj><sint><sup><nt><sg><gen>$ ^i<cnjcoo>$ ^głośny<adj><sint><sup><mi><sg><gen>$ ^dźwięk<n><mi><sg><gen>$^.<sent>$
+[/ysY0bbdZYLJ-]
+[zmDARiSk5z-2#0] ^Jej<det><pos><sp>$ ^pies<n><ma><sg><nom>$
+[/zmDARiSk5z-2]

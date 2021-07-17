@@ -1,0 +1,4 @@
+[fJChBI4nFBNM#0] ^Jej/Jej<det><pos><sp>/Prpers<prn><p3><f><sg><gen>/Prpers<prn><p3><f><sg><dat>$ ^pies/pies<n><ma><sg><nom>$
+[/fJChBI4nFBNM]
+[v0tzBldEuc-g#0] ^Jej/Jej<det><pos><sp>/Prpers<prn><p3><f><sg><gen>/Prpers<prn><p3><f><sg><dat>$ ^dzieci/dziecko<n><nt><pl><nom>/dziecko<n><nt><pl><gen>/dziecko<n><nt><pl><acc>/dziecko<n><nt><pl><voc>$
+[/v0tzBldEuc-g]
